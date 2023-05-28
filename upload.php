@@ -27,7 +27,8 @@ if (isset($_POST['submit'])) {
                 echo '<img src="images/'.$new_file_name.'" width="500px">';
 
                 // shell_exec('"C:\\Program Files (x86)\\Tesseract-OCR\\tesseract" "C:\\laragon\\www\\ocrtessarat\\images\\'.$new_file_name.'" out');
-                shell_exec('"Tesseract-OCR/tesseract" "images/'.$new_file_name.'" out');
+                // shell_exec('"Tesseract-OCR/tesseract" "images/'.$new_file_name.'" out');
+                shell_exec('"Tesseract-OCR-V5/tesseract" "images/'.$new_file_name.'" out');
 
                 echo "<br><br><h1>TEXT RESULT</h1><h1><pre>";
 
