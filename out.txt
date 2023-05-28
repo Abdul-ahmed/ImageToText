@@ -1,0 +1,100 @@
+Open source
+
+Ease of use
+& setup
+
+Built—in features
+
+Integration
+
+Hosting
+Free version
+
+Build agent
+
+ 
+
+license pricing
+
+Supported OSs
+
+ 
+
+Ye 5
+
+Medium
+
+3/5
+
+ttttt
+
+On premise 8.
+Cloud
+
+Ye 5
+
+Free
+
+Windows, Linux,
+macOS, Unix-like
+OS
+
+Teamcity
+
+No
+
+Medium
+
+4/5
+
+tit
+
+On premise &
+Cloud
+
+Ye S
+
+From $59
+per month
+
+Linux or Macos
+
+9 circleci
+
+No
+
+Medium
+
+4/5
+
+tttt
+
+On premise
+
+Ye S
+
+From $15
+per month
+
+Windows, Linux,
+macOS, Solaris,
+FreeBSD and more
+
+Q Bamboo U GitLab
+No No
+Medium Medium
+4/5 4/5
+t t t t t t t
+On premise & On premise 8.
+Bitbucket as Cloud Cloud
+Yes yes
+From $10 From $19 per
+
+one—off payment month per user
+Linux distributions:
+Ubuntu, Debian,
+CentOS, Oracle Linux
+
+Windows, Linux,
+macOS, Solaris
+
